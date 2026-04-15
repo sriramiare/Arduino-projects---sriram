@@ -18,6 +18,7 @@ The Arduino sends HIGH and LOW signals to the LED through pin 13, making it turn
 
 ## Code
 
+```cpp
 void setup() {
   pinMode(13, OUTPUT);
 }
