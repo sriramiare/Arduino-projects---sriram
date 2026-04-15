@@ -14,7 +14,7 @@ To understand basic Arduino programming and control an LED using digital output.
 The Arduino sends HIGH and LOW signals to the LED through pin 13, making it turn ON and OFF at regular intervals.
 
 ## Circuit Diagram / Output
-![LED Blink](blinking led.png)
+[LED Blink](blinking led.png)
 
 ## Code
 
