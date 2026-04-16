@@ -8,7 +8,7 @@ To control an LED using a push button by reading digital input from Arduino.
 - LED  
 - Resistor  
 - Push Button  
-
+ 
 ## Working Principle
 The Arduino reads the state of the button using digital input. When the button is pressed, the signal becomes LOW (due to INPUT_PULLUP), and the LED turns ON. When released, the LED turns OFF.
 
