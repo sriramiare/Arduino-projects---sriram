@@ -1,4 +1,4 @@
-# LED Fading using Arduino
+# LED Fading using Arduino UNO
 
 ## Objective
 To control LED brightness using PWM.
